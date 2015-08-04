@@ -1,6 +1,6 @@
 Android Bootcamp Week 4 Project 4 - Twitter With Fragments
 
-Simple Twitter client that supports viewing a Twitter timeline
+Extend our Twitter client from previous project to use a tabbed interface and fragments.
 
 User Stories:
 
